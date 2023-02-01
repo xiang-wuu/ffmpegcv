@@ -46,6 +46,7 @@ pip install ffmpegcv
 ### Video Reader
 <hr/>
 The ffmpegcv is just similar to opencv in api.
+
 ```
 # open cv
 import cv2
