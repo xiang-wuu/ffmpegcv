@@ -122,3 +122,8 @@ Crop and then resize the video.
 ```
 cap = ffmpegcv.VideoCapture(file, crop_xywh=(0, 0, 640, 480), resize=(512, 512))
 ```
+
+## Contact
+For any professional/commercial support kindly reach out to [xiangwuu4@gmail.com](mailto:xiangwuu4@gmail.com)
+Many Thanks to original author [chenxf](mailto:cxf529125853@163.com)
+
